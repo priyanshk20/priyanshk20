@@ -17,8 +17,4 @@ If you like collaborating for some project feel free to reach out!
 
  ![Dino](https://raw.githubusercontent.com/priyanshk20/priyanshk20/master/dino.gif)
  
- <p align='center'>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=priyanshk20.visitor-badge">
-    Including you!
-</p>
 
