@@ -6,11 +6,11 @@ I am currently learning React JS, Backend stuff, and starting my Competitive Pro
 
 ## Connect with Me 🤝🏻
 
- [LinkedIn](https://www.linkedin.com/in/priyansh-khandelwal-34867b188/)
+🎇 [LinkedIn](https://www.linkedin.com/in/priyansh-khandelwal-34867b188/)
  
- [GitHub](https://github.com/priyanshk20)
+🎇 [GitHub](https://github.com/priyanshk20)
  
- [Instagram](https://www.instagram.com/ipriyanshk/)
+🎇[Instagram](https://www.instagram.com/ipriyanshk/)
 
  ![Dino](https://raw.githubusercontent.com/priyanshk20/priyanshk20/master/dino.gif)
 
