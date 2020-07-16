@@ -13,7 +13,7 @@ I am currently learning React JS, Backend stuff, and starting my Competitive Pro
 🎇[Instagram](https://www.instagram.com/ipriyanshk/)
 
 ## yeet!🎊
-If you like collaborating for some projects just ping me up! 
+If you like collaborating for some project feel free to reach out! 
 
  ![Dino](https://raw.githubusercontent.com/priyanshk20/priyanshk20/master/dino.gif)
 
