@@ -1,8 +1,8 @@
 # Hello there! 👋🏻
 
-I am Priyansh Khandelwal 🙋🏻‍♂️, a Web Developer, Coder, sometimes I design as well.
+I am Priyansh Khandelwal 🙋🏻‍♂️, a Web Developer, Coder and sometimes I design as well.
 
-I am currently learning React JS, Backend stuff, and starting my Competitive Programming journey. 
+I am currently learning React JS, Backend stuff, and starting my Competitive Programming journey with C++. 
 
 ## Connect with Me 🤝🏻
 
