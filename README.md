@@ -10,7 +10,7 @@ I am currently learning React JS, Backend stuff, and starting my Competitive Pro
  
 🎇 [GitHub](https://github.com/priyanshk20)
  
-🎇[Instagram](https://www.instagram.com/ipriyanshk/)
+🎇 [Instagram](https://www.instagram.com/ipriyanshk/)
 
 ## yeet!🎊
 If you like collaborating for some project feel free to reach out! 
