@@ -4,7 +4,7 @@ I am Priyansh Khandelwal 🙋🏻‍♂️, a Web Developer, Coder and sometimes
 
 Currently pursuing B.Tech in Information Technology from Manipal University Jaipur.
 
-I am currently learning React JS💻, Backend stuff🖥, and starting my Competitive Programming journey with C++⌨. 
+Right now, I am learning React JS💻, some Backend stuff🖥, and starting my Competitive Programming journey with C++⌨. 
 
 ## Connect with Me 🤝🏻
 
