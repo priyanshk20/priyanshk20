@@ -1,6 +1,6 @@
 # Hello there! 👋🏻
 
-I am Priyansh Khandelwal 🙋🏻‍♂️, Web Developer, Coder and sometimes I design as well.
+I am Priyansh Khandelwal 👨‍💻, Web Developer, Coder and sometimes I design as well.
 
 Currently pursuing B.Tech in Information Technology from Manipal University Jaipur.
 
