@@ -10,7 +10,6 @@ Right now, I am learning React JS💻, some Backend stuff🖥, and starting my C
 
 🎇 [LinkedIn](https://www.linkedin.com/in/priyansh-khandelwal-34867b188/)
  
-🎇 [GitHub](https://github.com/priyanshk20)
  
 🎇 [Instagram](https://www.instagram.com/ipriyanshk/)
 
