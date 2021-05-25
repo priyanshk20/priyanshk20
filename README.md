@@ -13,7 +13,6 @@ Right now, I am learning React JS💻, some Backend stuff🖥, and starting my C
  
 🎇 [Instagram](https://www.instagram.com/ipriyanshk/)
 
-## yeet!🎊
 If you like collaborating for some project feel free to reach out! 
 
  ![Dino](https://raw.githubusercontent.com/priyanshk20/priyanshk20/master/dino.gif)
