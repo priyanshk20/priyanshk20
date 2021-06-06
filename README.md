@@ -1,4 +1,4 @@
-# Hello there! 👋🏻
+# Hello There! 👋🏻
 
 I am Priyansh Khandelwal 👨‍💻, Web Developer, Coder and sometimes I design as well.
 
