@@ -10,6 +10,7 @@ Right now, I am learning/doing React JS💻, some Backend stuff🖥, and Program
 
 🎇 [LinkedIn](https://www.linkedin.com/in/priyansh-khandelwal-34867b188/)
  
+🎇 [Twitter](https://twitter.com/priyanshk20)
  
 🎇 [Instagram](https://www.instagram.com/ipriyanshk/)
 
