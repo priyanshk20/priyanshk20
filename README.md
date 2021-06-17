@@ -2,7 +2,7 @@
 
 I am Priyansh Khandelwal 👨‍💻, Web Developer, Coder and sometimes I design as well.
 
-Currently pursuing B.Tech in Information Technology from Manipal University Jaipur.
+Currently pursuing B.Tech (Information Technology) from Manipal University Jaipur.
 <br />
 
 
