@@ -5,6 +5,7 @@ I am Priyansh Khandelwal 👨‍💻, Web Developer, Coder and sometimes I desig
 Currently pursuing B.Tech in Information Technology from Manipal University Jaipur.
 
 Right now, I am learning/doing React JS💻, some Backend stuff🖥, and Programming with C++⌨. 
+<br />
 
 
 ![](https://komarev.com/ghpvc/?username=priyanshk20&color=red)
