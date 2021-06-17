@@ -7,7 +7,7 @@ Currently pursuing B.Tech in Information Technology from Manipal University Jaip
 Right now, I am learning/doing React JS💻, some Backend stuff🖥, and Programming with C++⌨. 
 
 
-![Priyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshk20&show_icons=true&theme=synthwave&count_private=true&include_all_commits)
+![Priyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshk20&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshk20&layout=compact)](https://github.com/priyanshk20/github-readme-stats)
 
