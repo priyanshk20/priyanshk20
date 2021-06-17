@@ -9,6 +9,8 @@ Right now, I am learning/doing React JS💻, some Backend stuff🖥, and Program
 
 ![](https://komarev.com/ghpvc/?username=priyanshk20&color=red)
 
+<br />
+
 
 **Languages and Tools:**  
 
@@ -18,11 +20,16 @@ Right now, I am learning/doing React JS💻, some Backend stuff🖥, and Program
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
+<br />
+
 
 ![Priyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshk20&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true)
+<br />
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshk20&layout=compact)](https://github.com/priyanshk20/github-readme-stats)
 
+<br />
 
 
 ## Connect with Me 🤝🏻
