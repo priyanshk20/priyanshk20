@@ -23,13 +23,14 @@ Right now, I am learning/doing React JS💻, some Backend stuff🖥, and Program
 <br />
 
 
-![Priyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshk20&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true)
-<br />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=priyanshk20&show_icons=true&include_all_commits=true&theme=material-synthwave" alt="Priyansh's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=priyanshk20&layout=compact&theme=material-synthwave" />
+</a>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshk20&layout=compact)](https://github.com/priyanshk20/github-readme-stats)
-
-<br />
 
 
 ## Connect with Me 🤝🏻
