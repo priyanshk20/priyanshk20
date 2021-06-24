@@ -23,6 +23,13 @@ Currently pursuing B.Tech (Information Technology) from Manipal University Jaipu
 
 <br />
 
+[![Priyansh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=priyanshk20&theme=xcode)](https://git.io/priyanshk20)
+
+<br />
+
+![Priyansh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshk20) 
+<br />
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshk20&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true" alt="Priyansh's github stats" />
@@ -31,6 +38,7 @@ Currently pursuing B.Tech (Information Technology) from Manipal University Jaipu
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=priyanshk20&layout=compact&theme=material-synthwave" />
 </a>
+
 
 
 
