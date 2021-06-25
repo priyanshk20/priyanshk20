@@ -22,8 +22,8 @@ Currently pursuing B.Tech (Information Technology) from Manipal University Jaipu
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"></code> 
 
 <br />
-
-[![Priyansh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=priyanshk20&theme=xcode)](https://git.io/priyanshk20)
+<!-- 
+[![Priyansh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=priyanshk20&theme=xcode)](https://git.io/priyanshk20) -->
 
 <br />
 
