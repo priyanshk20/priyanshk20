@@ -1,6 +1,6 @@
 # Hello There! 👋🏻
 
-I am Priyansh Khandelwal 👨‍💻, Web Developer, Coder and sometimes I design as well.
+I am Priyansh Khandelwal 👨‍💻, working with `javascript`(mainly in the React ecosystem)
 
 Currently pursuing B.Tech (Information Technology) from Manipal University Jaipur.
 <br />
